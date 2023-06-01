@@ -1,0 +1,269 @@
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.exe
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.deps.json
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.json
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.dev.json
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.pdb
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfoInputs.cache
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfo.cs
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CoreCompileInputs.cache
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.MvcApplicationPartsAssemblyInfo.cache
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.Manifest.cache
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.xml
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment02_API.styles.css
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.RazorTargetAssemblyInfo.cache
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CopyComplete
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.dll
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.pdb
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.genruntimeconfig.cache
+E:\WORK\TUKS\AL WORK\Assignment 02 - Ionic\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.csprojAssemblyReference.cache
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.exe
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.deps.json
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.json
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.dev.json
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Assignment02_API.pdb
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.AssemblyReference.cache
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfoInputs.cache
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfo.cs
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CoreCompileInputs.cache
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.MvcApplicationPartsAssemblyInfo.cache
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.Manifest.cache
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.xml
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment02_API.styles.css
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.RazorTargetAssemblyInfo.cache
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CopyComplete
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.dll
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.pdb
+D:\UP\Teaching\2022\Courses\INF354\Assignments\Assignment 2\assign02 API\Assignment02_API\obj\Debug\netcoreapp3.1\Assignment02_API.genruntimeconfig.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.exe
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.deps.json
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.json
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.dev.json
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.pdb
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfoInputs.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfo.cs
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.xml
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment02_API.styles.css
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CopyComplete
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.pdb
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.genruntimeconfig.cache
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF354\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.exe
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.deps.json
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Assignment02_API.pdb
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\staticwebassets\Assignment02_API.StaticWebAssets.xml
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment02_API.styles.css
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.dll
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.pdb
+C:\Users\User\Documents\GitHub\Homework 2\my work\u19183098_HW02\HW2API\obj\Debug\netcoreapp3.1\Assignment02_API.genruntimeconfig.cache

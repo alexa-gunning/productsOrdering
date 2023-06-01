@@ -1,0 +1,15 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Orders
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-list *ngFor="let order of this.order" >
+      <ion-item>
+        Order #{{order.orderId}} : {{order.date}} 
+      </ion-item>
+  </ion-list>
+</ion-content>

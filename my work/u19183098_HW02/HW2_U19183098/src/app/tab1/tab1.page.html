@@ -1,0 +1,48 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Products
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <!-- To add the products to cards using ngFor to get all of them -->
+  <!-- Recieved the Product Price, Name and Description from the tab1.page.ts from the Products array -->
+  <ion-card *ngFor="let Product of this.Products">
+
+    <ion-card-header>
+      <ion-card-subtitle>R{{Product.productPrice}}</ion-card-subtitle>
+      <ion-card-title>{{Product.productName}}</ion-card-title>
+    </ion-card-header>
+
+    <ion-card-content>
+      {{Product.productDescription}}
+    </ion-card-content>
+
+    <!-- put the quantity in the ion-footer below to keep it under the description and to put the cart button on the opposite side -->
+    <ion-footer>
+      
+      <ion-row>
+        <ion-col size="6" class="ion-align-self-start">
+          <!-- Made an ion-item below for the quantity to keep the label and number together -->
+          <ion-item>
+            <!-- used stacked below to make the value number under the Quantity label  -->
+            <ion-label position="stacked">Quantity</ion-label>
+            <ion-input name="{{Product.productId}}" (change)="updateQTY($event)" type="number"
+              value="{{Product.productQty}}"></ion-input>
+          </ion-item>
+        </ion-col>
+        <ion-col size="6" text-right>
+          <ion-button (click)="addProductToBasket(Product)" class="ion-float-right" size="medium">
+            <ion-icon name="basket-outline"></ion-icon>
+          </ion-button>
+        </ion-col>
+      </ion-row>
+
+    </ion-footer>
+
+  </ion-card>
+
+</ion-content>
